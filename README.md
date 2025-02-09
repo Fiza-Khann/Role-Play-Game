@@ -8,10 +8,12 @@ This project aims to create an RPG game simulation using MIPS Assembly, so that 
 Background:
 MIPS Assembly is a sort of assembly language widely used in teaching institutions in order to teach the very basics of how computers work. Although it is not much used for game development, the simplest RPG game in MIPS lets us go through important issues like memory management, processing, and user interaction at a deeper level.
 In most RPGs, systems like character stats, turn-based combat, and random events are built on the basis of algorithms and data structures. This project explores how such systems can be implemented in MIPS Assembly, therefore filling in the gap between theory and practical implementation using such an uncommon programming approach.
+
 2.	PROBLEM STATEMENT
 It is the purpose of this project to fill the gap in the current market of games that has no text-based RPG game with seamless integration of MIPS architecture. Development of a new MIPS-based text adventure game will, therefore, bring adventure with a classic charm to the new system of game design.
 
 3.	PROPOSED SOLUTION
+
 3.1. FEATURES OF THE PROJECT 
 The core mechanics of a simplified RPG experience will be implemented in an RPG game in MIPS Assembly.
 •	Character Creation: Create a character with basic stats (health, attack, and defense) to be created by the player him/herself.
